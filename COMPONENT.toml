@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-build-scripts"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-build-scripts component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
